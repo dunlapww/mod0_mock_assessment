@@ -1,0 +1,15 @@
+Class: Boat
+Attributes:
+
+color (string)
+boat_type (string)
+max_speed (integer)
+weight (float)
+bouyant (boolean)
+current_speed (integer)
+
+Methods:
+sink_boat (converts 'bouyant' attribute to false)
+increase_speed (increases 'current_speed' attribute)
+paint_boat (changes 'color' attribute)
+load_boat (increases 'weight' attribute)
