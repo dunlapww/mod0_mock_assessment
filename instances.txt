@@ -1,0 +1,16 @@
+Class: Boat
+Attributes:
+
+color: blue
+boat_type: tug_boat
+max_speed: 15
+weight: 5000.7
+bouyant: true
+current_speed: 0
+
+color: red
+boat_type: speed_boat
+max_speed: 60
+weight: 2500.3
+bouyant: true
+current_speed: 10
