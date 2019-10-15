@@ -1,0 +1,38 @@
+Making a Sandwich
+
+1. Consider Sandwich ingredients on hand
+2. Consider Sandwich ingredients needed from store
+  2.1. Write down ingredients needed from store
+3. Go to store to get missing ingredients
+  3.1 Get in car
+  3.2 drive to store
+  3.3 Go to aisles containing ingredients
+  3.4 pick up ingredients
+  3.5 go to checkout
+    3.5.1 give ingredients to checker
+    3.5.2 pull out wallet
+    3.5.3 pull out visa
+    3.5.4 give visa to checker
+    3.5.5 get visa back from checker
+    3.5.6 bag groceries
+    3.5.7 take groceries back to car
+    3.5.8 drive back home
+4. Put all needed ingredients on counter
+5. Prepare kitchen equipment
+  5.1 Get Cutting Board
+  5.2 Get Knife
+6. Prepare ingredients
+  6.1 Wash Lettuce
+    6.1.1 Cut Lettuce
+  6.2 Wash Tomatoes
+    6.2.1 Cut Tomatoes
+  6.3 Prepare bread
+    6.3.1 get two pieces of bread from bag
+    6.3.2 put bread on counter
+  6.4 Pull cold cuts from bag
+7. Make Sandwich
+  7.1 Put cold cuts on bread
+  7.2 Put tomatoes on cold cuts
+  7.3 Put lettuce on Tomatoes
+  7.4 Put other piece of bread on top of Lettuce
+8. Eat Sandwich
